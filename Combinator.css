@@ -1,0 +1,9 @@
+ /*descendant selector */
+ div p{
+    color:rgb(255,0, 0);
+ }
+ /* Child Selector */
+
+ div > p{
+    color: blueviolet;
+ }
